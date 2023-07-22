@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello, folks! <img src="wave.gif" width="30px" height="30px" />
+
+My name is Dominik Downarowicz and I'm a software developer/technical consultant. I'm from Austria, living in Vienna and currently working at Sonepar. You can find me on [LinkedIn][1].
+
+<!-- ## 🔧 Technologies & Tools -->
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/dominik-downarowicz/
 
 <!--
 **downarowiczd/downarowiczd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
