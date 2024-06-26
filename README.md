@@ -1,6 +1,6 @@
 # Hello, folks! <img src="wave.gif" width="30px" height="30px" />
 
-My name is Dominik Downarowicz and I'm a software developer/technical consultant. I'm from Austria, living in Vienna and currently working at Sonepar. You can find me on [LinkedIn][1] or my personal blog [Blog][2].
+My name is Dominik Downarowicz and I'm a software developer/technical consultant. I'm from Austria, living in Vienna and currently working at Prodware. You can find me on [LinkedIn][1] or my personal blog [Blog][2].
 
 <!-- ## 🔧 Technologies & Tools -->
 
